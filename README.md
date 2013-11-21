@@ -12,6 +12,6 @@ For testing use the Mock Server URL
 
 You can then move to the production Server URL
 > http://www.whatsbulk.com/api/
-- In production mode, The Key is obtained from Http://www.whatsbulk.com
+- In production mode, The Key is obtained from Http://my.whatsbulk.com
 
 You'll need to set the correct key into the _class.whatsbulk.php_ 
